@@ -28,8 +28,8 @@
             android:paddingTop="5dp"
             android:textSize="30dp"
             android:textStyle="bold"
-            android:fontFamily="cursive"
-            android:text="Pariwisata Lampung"
+            android:fontFamily="sans-serif"
+            android:text="Built PC"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     </LinearLayout>
